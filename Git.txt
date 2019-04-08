@@ -1,0 +1,13 @@
+新建仓库
+$ mkdir learngit
+$ cd learngit
+$ pwd
+/Users/michael/learngit
+
+1、cd进入仓库目录
+2、git init把这个目录变成Git可以管理的仓库
+3、git add 文件名（readme.txt）
+4、git commit -m "自定义说明文字"
+5、git status命令可以让我们时刻掌握仓库当前的状态
+6、用git diff可以查看修改内容。
+7、git log可以告诉我们历史记录
